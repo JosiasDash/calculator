@@ -1,0 +1,161 @@
+body {
+    background-color:#DC9BEC;
+}
+
+#one {
+    position: fixed;
+    left: 23vw;
+    top: 35vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#two {
+    position: fixed;
+    left: 35vw;
+    top: 35vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#three {
+    position: fixed;
+    left: 47vw;
+    top: 35vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#four {
+    position: fixed;
+    left: 23vw;
+    top: 45vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#five {
+    position: fixed;
+    left: 35vw;
+    top: 45vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#six {
+    position: fixed;
+    left: 47vw;
+    top: 45vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#seven {
+    position: fixed;
+    left: 23vw;
+    top: 55vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#eight {
+    position: fixed;
+    left: 35vw;
+    top: 55vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#nine {
+    position: fixed;
+    left: 47vw;
+    top: 55vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#zero {
+    position: fixed;
+    left: 23vw;
+    top: 65vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#res {
+    position: fixed;
+    left: 35vw;
+    top: 65vh;
+    width: 11vw;
+    height: 9vh;
+    color: white;
+    background-color: red;
+    border-color: red;
+}
+
+#point {
+    position: fixed;
+    left: 47vw;
+    top: 65vh;
+    font-size: 15px;
+    width: 11vw;
+    height: 9vh;
+}
+
+#del {
+    position: fixed;
+    left: 59vw;
+    top: 35vh;
+    width: 11vw;
+    height: 9vh;
+}
+
+#moins {
+    position: fixed;
+    left: 59vw;
+    top: 45vh;
+    width: 11vw;
+    height: 9vh;
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+
+#plus {
+    position: fixed;
+    left: 59vw;
+    top: 55vh;
+    width: 11vw;
+    height: 9vh;
+    border-color: cadetblue;
+    background-color: cadetblue;
+}
+
+#eg {
+    position: fixed;
+    left: 59vw;
+    top: 65vh;
+    width: 11vw;
+    height: 9vh;
+    background-color: crimson;
+    border-color: crimson;
+}
+
+#lab {
+    position: fixed;
+    left: 23vw;
+    top: 23vh;
+    font-size: 47px;
+    border-radius: 19px;
+    border-color: blue;
+}
+
+#out {
+    position: fixed;
+    left: 22vw;
+    top: 23vh;
+    font-size: 47px;
+    border-radius: 19px;
+    border-color: blue;
+    background-color: white;
+    width: 50vw;
+}
